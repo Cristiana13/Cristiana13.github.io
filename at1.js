@@ -19,7 +19,7 @@ var svg_rect = svg.getBoundingClientRect();
 
 function on_touch_one(e)
 {
-	if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+	if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
 		alert("ai accesat pagina html5");
@@ -34,7 +34,7 @@ window.open("https://www.w3schools.com");
 
 function on_touch_two(e)
 {
-		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
 		alert("ai accesat pagina javascript");
@@ -49,7 +49,7 @@ window.open("https://www.java.com/en/");
 
 function on_touch_tree(e)
 {
-		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
 		alert("ai accesat pagina de monitorizare prin GPS a vehiculelor auto");
@@ -63,7 +63,7 @@ window.open("https://fise.i-track.ro/_layouts/login.aspx?ReturnUrl=%2f");
 
 function on_touch_four(e)
 {
-		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
 		alert("ai accesat pagina de programare la service auto sau pentru a comanda pise de schimb");
@@ -79,7 +79,7 @@ window.open("https://www.fleet1.ro/");
 
 function on_touch_five(e)
 {
-		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
 		alert("ai accesat pagina de monitorizare a carburantului incarcat in masini");
@@ -94,10 +94,10 @@ window.open("https://fleet.omv.com/FleetServicesProduction/Login.jsp");
 
 function on_touch_six(e)
 {
-		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
+		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
-		alert("ai accesat pagina COMOARA");
+		alert("ai accesat pagina COMORILE EGIPTULUI ANTIC");
 	}
 	else
 	{
