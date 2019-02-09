@@ -82,7 +82,7 @@ function on_touch_five(e)
 		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
-		alert("ai accesat pagina de monitorizare a carburantului incarcat in masini");
+		alert("ai accesat pagina de monitorizare a carburantului alimentat pe autovehicule");
 	}
 	else
 	{
