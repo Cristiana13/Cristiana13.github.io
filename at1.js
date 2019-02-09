@@ -97,12 +97,12 @@ function on_touch_six(e)
 		if(confirm("esti sigur ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
-		alert("ai accesat pagina zeului");
+		alert("ai accesat pagina COMOARA");
 	}
 	else
 	{
 		alert("ai apasat anulare");
 	}
 	
-alert("TEAPAAAA   !! NU MA MAI ATINGE");
+alert("TE-AM PACALIT!!!!! NU MAI ATINGE ECRANUL TELEFONULUI!!!!!");
 }
