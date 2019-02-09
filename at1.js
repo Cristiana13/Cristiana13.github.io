@@ -104,5 +104,5 @@ function on_touch_six(e)
 		alert("ai apasat anulare");
 	}
 	
-alert("TE-AM PACALIT!!!!! NU MAI ATINGE ECRANUL TELEFONULUI!!!!!");
+alert("TE-AM PACALIT!!!!! NU MAI ATINGE ECRANUL TELEFONULUI!!!!!...APASA DOAR BUTONUL OK ");
 }
