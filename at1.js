@@ -66,7 +66,7 @@ function on_touch_four(e)
 		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
-		alert("ai accesat pagina de programare la service auto sau pentru a comanda pise de schimb");
+		alert("ai accesat pagina de programare la service a autovehiculelor /oferte si comenzi de piese de schimb");
 	}
 	else
 	{
@@ -82,7 +82,7 @@ function on_touch_five(e)
 		if(confirm("esti sigur/a ca vrei sa accesezi aceasta pagina??"))
 	{
 		alert("ai apasat OK");
-		alert("ai accesat pagina de monitorizare a carburantului alimentat pe autovehicule");
+		alert("ai accesat pagina de monitorizare a carburantului alimentat cu cardul pe autovehicule");
 	}
 	else
 	{
